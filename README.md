@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on the "Bistro Boss" restaurant website. <br>🌱 I’m currently learning MEARN stack web development.  <br>👯 I’m looking to collaborate on building awesome react component libraries.<br>💬 Ask me about building a midrange website. <br>📫 Feel free to email me: aliazgoryeasin@gmail.com <br>⚡ Fun fact: I am fatty but active. 
+🔭 I’m currently working on the group project "Bookish Bliss" library website. <br>🌱 I’m currently exploring next.js & redux.  <br>👯 I’m looking to collaborate on building awesome react component libraries.<br>💬 Ask me about building a midrange website. <br>📫 Feel free to email me: aliazgoryeasin@gmail.com <br>⚡ Fun fact: I am fatty but active. 
 
 
 ## 🌐 Socials:
